@@ -16,11 +16,12 @@ A simple SIP (Systematic Investment Plan) Calculator built with **React** to hel
 - **JavaScript** for calculation logic
 - **CSS** for styling
 
-🖥️ Usage
+##🖥️ Usage
 
-##Enter:
--Monthly investment amount
--Investment duration (in years)
--Expected annual return rate
--Click Calculate to see the estimated future value.
+-Enter:
+  -Monthly investment amount
+  -Investment duration (in years)
+  -Expected annual return rate
+  -Click Calculate to see the estimated future value.
+
 
